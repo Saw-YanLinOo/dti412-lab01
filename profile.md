@@ -16,12 +16,13 @@
 ## Personal Interests
 
 - **Hobbies:** Building side-project apps, writing tech articles on Medium
-- **Favorite Technology:** Flutter
+- **Favorite Technology:** Agentic AI
 
 ## Career Goal
 
-After graduation, I want to work as a professional mobile and full-stack developer, building
-cross-platform apps with Flutter and native Android/iOS that are backed by reliable APIs.
+After graduation, I want to build my own startup creating AI-powered software: products that
+use agentic AI to automate real work, delivered through mobile and web apps that I design and
+build end to end.
 
 ## Learning Expectations
 
