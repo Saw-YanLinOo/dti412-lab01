@@ -33,3 +33,15 @@ RESTful APIs, JWT security and cloud deployment, so I can build the server side 
 - **Technical skills I want to improve:** Backend API design, database design, testing
 - **Technologies I want to learn:** Django REST Framework, Docker, cloud deployment
 - **Dream Job Position:** Senior Mobile / Full-Stack Developer
+
+## Semester Goals
+
+- Learn Django
+- Learn REST API Development
+- Learn Cloud Deployment
+
+## Portfolio Projects
+
+1. Student Management System
+2. Internship Management System
+3. Inventory Management System
